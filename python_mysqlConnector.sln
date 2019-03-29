@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_mysqlConnector", "python_mysqlConnector\python_mysqlConnector.pyproj", "{18A5BC05-8DB1-42A2-9F09-C4D7B964675C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A5BC05-8DB1-42A2-9F09-C4D7B964675C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A5BC05-8DB1-42A2-9F09-C4D7B964675C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965A3750-CED1-4C93-ACE4-2F8F0D800097}
+	EndGlobalSection
+EndGlobal
